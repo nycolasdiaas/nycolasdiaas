@@ -1,5 +1,23 @@
 ### Olá eu sou o Nycolas, desenvolvedor Front-end!
 
+<p align="left"> 
+  Estudante de análise e desenvolvimento de sistemas na Universidade Estácio de Sá
+</p>
+
+<p align="left">
+  Áreas de Interesse: <strong>Desenvolvimento Web Front-end e Banco de dados.</strong>
+</p>
+
+<p align="left">
+  💼 Esudando atualmente: <strong>Javascript, PHP e SQL.</strong>
+</p>
+
+<p align="left">
+  💌 Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para deixar
+  qualquer dúvida, dica ou qualquer feedback pode me chamar no LinkedIn ou Discord.⤵️
+</p>
+
+
 <div align="center">
   <a href="https://github.com/nycolasdiaas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nycolasdiaas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
