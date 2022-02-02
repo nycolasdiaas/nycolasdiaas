@@ -1,4 +1,4 @@
-### Olá eu sou o Nycolas, criador de conteúdos de programação e tecnologia!
+### Olá eu sou o Nycolas, desenvolvedor Front-end!
 
 <div align="center">
   <a href="https://github.com/nycolasdiaas">
