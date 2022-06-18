@@ -1,15 +1,15 @@
-### Olá eu sou o Nycolas, desenvolvedor Front-end!
+### Olá eu sou o Nycolas, estudante de programação!
 
 <p align="left"> 
   Estudante de análise e desenvolvimento de sistemas na Universidade Estácio de Sá
 </p>
 
 <p align="left">
-  Áreas de Interesse: <strong>Desenvolvimento Web Front-end e Banco de dados.</strong>
+  Áreas de Interesse: <strong>Desenvolvimento Back-end.</strong>
 </p>
 
 <p align="left">
-  💼 Esudando atualmente: <strong>Javascript, PHP e SQL.</strong>
+  💼 Esudando atualmente: <strong>Python e SQL.</strong>
 </p>
 
 <p align="left">
