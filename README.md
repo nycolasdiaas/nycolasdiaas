@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Esudando atualmente: <strong>Python e SQL.</strong>
+  💼 Esudando atualmente: <strong>PHP e Python.</strong>
 </p>
 
 <p align="left">
