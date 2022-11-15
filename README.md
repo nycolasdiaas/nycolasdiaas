@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  Áreas de Interesse: <strong>Desenvolvimento Back-end.</strong>
+  Áreas de Interesse: <strong>Data Science</strong>
 </p>
 
 <p align="left">
