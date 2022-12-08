@@ -1,4 +1,4 @@
-### Olá eu sou o Nycolas, estudante de programação!
+### Olá eu sou o Nycolas, analista de dados!
 
 <p align="left"> 
   Estudante de análise e desenvolvimento de sistemas na Universidade Estácio de Sá
