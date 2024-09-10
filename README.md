@@ -35,5 +35,5 @@ Sou um Analista de Dados dedicado a transformar dados em insights valiosos que o
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?&logo=bitbucket&logoColor=white)
 
-## WakaTime
+## WakaTime (post-Q4 2024)
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nycolasdiaas&layout=compact)
