@@ -12,7 +12,7 @@ Sou um Analista de Dados dedicado a transformar dados em insights valiosos que o
 - [![Wakatime]( 	https://img.shields.io/badge/WakaTime-000000?&logo=WakaTime&logoColor=white)](https://wakatime.com/@nycolasdiaas)
 
 
-## 🛠️ Used Technologies
+## 🛠️ Tecnologias Usadas
 
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?&logo=python&logoColor=blue) 
