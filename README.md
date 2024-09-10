@@ -1,58 +1,39 @@
-### Hello, I'm a self-taught passionate Data Analyst from Brazil!
+# Nycolas Dias
 
-<p align="left"> 
-  <strong>About me</strong>
-</p>
+## Data Analyst | Data Science Enthusiast
 
-<ul align="left"> 
-  <li>💼 Data Analyst at <a href="https://souenergy.com.br/">Sou Energy</a></li>
-  <li>📈 Building Data Pipeline</li>
-  <li>❤️ I love writing Python</li>
-</ul>
+Sou um Analista de Dados dedicado a transformar dados em insights valiosos que orientam decisões estratégicas e operacionais. Com habilidades sólidas em análise, visualização e modelagem de dados, estou sempre em busca de novos desafios e oportunidades para aplicar meu conhecimento em projetos impactantes.
+
+### 🌐 Contato
+
+- [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?&logo=microsoft-outlook&logoColor=white)](mailto:nycolas.diaas@outlook.com)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+- ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?&logo=whatsapp&logoColor=white)
+- [![Wakatime]( 	https://img.shields.io/badge/WakaTime-000000?&logo=WakaTime&logoColor=white)](https://wakatime.com/@nycolasdiaas)
 
 
-<p align="left">
-  💌 I want to practice and share my studies around here. Feel free to leave
-   any questions, tips or any feedback you can call me on LinkedIn or Discord.⤵️
-</p>
+## 🛠️ Used Technologies
 
-  <div align="center"> 
- <a href="https://discord.com/channels/@Nycolas#2818" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:nycolas.diaas@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nycolas-dias-5b60111b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
-<br>
+![Python](https://img.shields.io/badge/Python-FFD43B?&logo=python&logoColor=blue) 
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&logo=Matplotlib&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?&logo=Apache%20Airflow&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?&logo=git&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&logo=google-cloud&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?&logo=mysql&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?&logo=terraform&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?&logo=jira&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?&logo=bitbucket&logoColor=white)
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" height = "180em" src="https://github-readme-stats.vercel.app/api?username=nycolasdiaas&show_icons=true" />
-  </a>    
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycolasdiaas&layout=compact&exclude_repo=brasil-covid-project-coders-22"/>
-  </a>
-    
-<br><br>
-  
-## Top Repositories  
-<div align="center">
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=nycolasdiaas&repo=americanas">
-  <img align="center" height = "130em" src="https://github-readme-stats.vercel.app/api/pin/?username=nycolasdiaas&repo=americanas"/>
-<a href="https://github.com/nycolasdiaas/RH-miniProject-01">
-  <img align="center" height = "130em" src="https://github-readme-stats.vercel.app/api/pin/?username=nycolasdiaas&repo=RH-miniProject-01"/> 
-      
-  
-  
-## SKILLS 
-    
-</div>
-  <div style="display: inline_block" align= "center"><br>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="GIT" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
-  
-  ##
-  
+## WakaTime
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nycolasdiaas&layout=compact)
