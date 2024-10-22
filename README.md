@@ -25,7 +25,7 @@ Sou um Analista de Dados dedicado a transformar dados em insights valiosos que o
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&logo=git&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?&logo=powerbi&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?&logo=yaml&logoColor=151515)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&logo=google-cloud&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?&logo=mysql&logoColor=white) 
