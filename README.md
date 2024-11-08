@@ -9,7 +9,8 @@ Sou um Analista de Dados dedicado a transformar dados em insights valiosos que o
 - [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?&logo=microsoft-outlook&logoColor=white)](mailto:nycolas.diaas@outlook.com)
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nycolasdiaas/)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?&logo=whatsapp&logoColor=white)](https://wa.me/+5585991500851)
-- [![Wakatime]( 	https://img.shields.io/badge/WakaTime-000000?&logo=WakaTime&logoColor=white)](https://wakatime.com/@nycolasdiaas)
+- [![Wakatime](https://img.shields.io/badge/WakaTime-000000?&logo=WakaTime&logoColor=white)](https://wakatime.com/@nycolasdiaas)
+- [![Portifolio](https://img.shields.io/badge/website-000000?&logo=About.me&logoColor=white)](https://nycolasdiaas.github.io/landingpage/)
 
 
 ## 🛠️ Tecnologias Usadas
