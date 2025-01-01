@@ -1,7 +1,7 @@
 # Nycolas Dias
 
 ## Data Analyst | Data Science Enthusiast
-
+ 
 Sou um Analista de Dados dedicado a transformar dados em insights valiosos que orientam decisões estratégicas e operacionais. Com habilidades sólidas em análise, visualização e modelagem de dados, estou sempre em busca de novos desafios e oportunidades para aplicar meu conhecimento em projetos impactantes.
 
 ### 🌐 Contato
